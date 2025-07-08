@@ -194,3 +194,8 @@ node scripts/run-all-examples.js
 - [Node.js Debugging Guide](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 - [Chrome DevTools Documentation](https://developers.google.com/web/tools/chrome-devtools)
 - [VS Code Debugging](https://code.visualstudio.com/docs/editor/debugging)
+- 
+![findbugspng](https://github.com/user-attachments/assets/70022905-7ef9-4f0e-ba2d-fa6843362cb4)
+
+
+
